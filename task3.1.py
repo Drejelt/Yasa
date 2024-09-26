@@ -11,3 +11,5 @@ message_2 = "Good day {}! {} is a perfect day to learn some python.".format(name
 # Печатаю результаты
 print(message_1)
 print(message_2)
+
+input ('Нажмите Enter для завершения:')
